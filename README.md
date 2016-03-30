@@ -1,4 +1,4 @@
 # SeleniumWebDriverScripts
 
 
-Various scripts for Selenium WebDriver
+Various scripts in Java for Selenium WebDriver
